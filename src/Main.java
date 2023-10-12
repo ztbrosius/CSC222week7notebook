@@ -2,7 +2,7 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("We are going to get loop y");
+        System.out.println("We are going to get loopy");
 
         // testing a while loop
         // create an int variable to hold our loop counts
